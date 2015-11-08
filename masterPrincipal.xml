@@ -86,45 +86,31 @@
 </item>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item>
 <title>[COLOR lime][B]•[/B][/COLOR][COLOR deepskyblue]  [B]Canales en vivo[/B]  [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
 <externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
 </item>
+
+<item>
+<title>[COLOR lime][B]•[/B][/COLOR][COLOR deepskyblue]  [B]Cine infantil[/B]  [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime][B]•[/B][/COLOR][COLOR deepskyblue]  [B]Series animadas[/B]  [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime][B]•[/B][/COLOR][COLOR deepskyblue]  [B]Series retro[/B]  [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
+</item>
+
+<!--
 <item>
 <title>[COLOR lime]֛/COLOR][COLOR deepskyblue]  [B]Sports[/B]   [/COLOR][COLOR skyblue][Acestreams Channels] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
@@ -210,7 +196,7 @@
 <externallink>http://adrian.kodistream.info/adryan/lists.xml</externallink>
 </item>
 
-
+-->
 
 <!--
 <item>
