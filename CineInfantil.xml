@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<channels>
+ <channels_info>
+      <title>[COLOR darkorange]ELIPLEX TV [/COLOR]</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>TV Y PELICULAS ONLINE</genre>
+      <description>Entretenimiento al extremo #MI MUNDO ES TU MUNDO#</description>
+      <date>25.09.2015</date>
+      <credits> Agradecimientos a Yul Rivera (YulfiosTV) y Derians Black (Wolf-IPTV)</credits>
+	  <thumbnail>https://i.imgur.com/HJqbI7D.png</thumbnail>
+	  <fanart>https://i.imgur.com/rdVQTRt.jpg</fanart>
+ </channels_info>
 
 <items>
 <items_info> <!-- this is opitonal -->
@@ -31,23 +41,22 @@
 
 
 
-<item>
-<title>[COLOR lime][B]•[/B][/COLOR][COLOR deepskyblue]  [B]Colección de Disney[/B]  [/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
-<externallink>www.vmardesign.com/addonretrokids/coleccionDisney.m3u</externallink>
-</item>
+<channel>
+ <name>                   [COLOR Black]##[COLOR red]##[/COLOR]##[COLOR yellow]##[/COLOR]##[/COLOR]  [COLOR red]ELIPLEX [/COLOR][COLOR yellow]CINE [/COLOR][COLOR red]INFANTIL [/COLOR][COLOR Black]##[COLOR yellow]##[/COLOR]##[COLOR red]##[/COLOR]##[/COLOR] </name>
+    
+ <item>
+ 
+    <link>nada</link>
+    <thumbnail>https://i.imgur.com/d7KAaia.png</thumbnail>
+	
+    <fanart></fanart>
+    <externallink>https://dl.dropboxusercontent.com/s/052ftluh9upgwwf/Eliplex.cineinfantil.m3u</externallink>	
+	
+ </item>
+   
+</channel>
 
-<item>
-<title>[COLOR lime][B]•[/B][/COLOR][COLOR deepskyblue]  [B]Peliculas animadas[/B]  [/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
-</item>
 
-<item>
-<title>[COLOR lime][B]•[/B][/COLOR][COLOR deepskyblue]  [B]Peliculas familiares[/B]  [/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
-<externallink>http://adrian.kodistream.info/adryan/deportes_adryan_list.xml</externallink>
-</item>
 
 </items>
 
@@ -61,3 +70,5 @@
   ga('send', 'pageview');
 
 </script>
+
+</channels>
