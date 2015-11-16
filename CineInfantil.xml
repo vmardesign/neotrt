@@ -11,9 +11,23 @@
     <externallink>http://www.vmardesign.com/addonretrokids/coleccionDisney.xml</externallink>	
  </item>
 
+<channel>
+ <name>[COLOR lime][B]•[/B][/COLOR][COLOR deepskyblue]  [B]PELICULAS ANIMADAS[/B]  [/COLOR]</name>
+<item>
+    <link>nada</link>
+    <thumbnail>https://i.imgur.com/d7KAaia.png</thumbnail>
+    <fanart></fanart>
+    <externallink>http://www.vmardesign.com/addonretrokids/coleccionAnimadas.xml</externallink>	
+ </item>
 
-
-
+<channel>
+ <name>[COLOR lime][B]•[/B][/COLOR][COLOR deepskyblue]  [B]PELICULAS FAMILIARES[/B]  [/COLOR]</name>
+<item>
+    <link>nada</link>
+    <thumbnail>https://i.imgur.com/d7KAaia.png</thumbnail>
+    <fanart></fanart>
+    <externallink>http://www.vmardesign.com/addonretrokids/coleccionFamiliares.xml</externallink>	
+ </item>
 
    
 </channel>
